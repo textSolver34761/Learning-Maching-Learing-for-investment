@@ -1,0 +1,60 @@
+ML = buzz word
+
+Simple when brok in steps. Like programming
+
+ML : ppl think machine is learing on it's own.
+BUT it's supervised by humain.
+
+Form : classification
+
+supervised vs unsupervised
+
+supervised : humain guide machine (classification, label datas)
+unsupervised : humain doesn't guide machine
+
+MACHINE LEARING SIMPLE
+
+SKLearn with Python
+
+Aquiring data
+Organize data (labeling)
+Structuring data
+
+------------------------
+------------------------
+
+
+--> here on stocks
+
+
+Use of ML?
+
+Take data --> feed it to computer --> get insight!
+
+
+---------------------
+---------------------
+
+Again, humain part is to :
+Aquire, Organize and Sturcutre Data
+
+---------------------------
+---------------------------
+
+The suport vector machine (SVM) is going to speparte your data according to your labels.
+Datas, will be much more easily to group. (see image.png)
+
+
+SVM is going to bring number (0 to 9)
+Based on exemples, it will guess what number it is.
+
+After seeing exemple, the machine is gonna be able to say that 4 is inferior to 9
+
+
+loads-digits allows the machine to recognize hand-written digits for instance (http://scikit-learn.org/stable/modules/generated/sklearn.datasets.load_digits.html)
+
+
+---------------------------------------------------
+---------------------------------------------------
+
+One of the difficult part is that humain has to convert EVERYTHING to numbers
