@@ -57,4 +57,35 @@ loads-digits allows the machine to recognize hand-written digits for instance (h
 ---------------------------------------------------
 ---------------------------------------------------
 
-One of the difficult part is that humain has to convert EVERYTHING to numbers
+One of the difficult part is that humains has to convert EVERYTHING to numbers
+Need to put data on a same scale
+
+-----------------------------------------------
+
+Using sample (of the 1797 digits available) to show our algorithm how to work
+
+-------------------------------------------------
+
+Aspect simple. NO own custom code.
+
+ML is simlpe.
+
+http://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
+Map machine Learning that explains what to use.
+
+Hardship : get data.
+
+Can we use ML to analyse technical datas?
+Getting datas, Organize and libellize data (buyer or seller)
+
+datas can be free (but expensive) or free but HEARD to get.
+
+Can be accused to do harm to server.
+
+Stock fundemantals
+
+--------------
+
+Machine Learning is useful for a field where exp matters.
+
+
